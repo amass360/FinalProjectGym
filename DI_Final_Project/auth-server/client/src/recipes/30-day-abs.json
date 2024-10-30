@@ -1,0 +1,4772 @@
+[
+    {
+        "day": 1,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 2,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 3,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 4,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 5,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 6,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 7,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 8,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 9,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 10,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 11,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 12,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 13,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 14,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 15,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 16,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 17,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 18,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 19,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 20,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 21,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 22,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 23,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 24,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 25,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 26,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 27,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 28,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 29,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    },
+    {
+        "day": 30,
+        "meals": {
+            "breakfast": {
+                "regular": {
+                    "meal": "Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                },
+                "vegetarian": {
+                    "meal": "Oatmeal with Almond Butter and Blueberries",
+                    "calories": 320,
+                    "protein": "10g",
+                    "carbs": "35g",
+                    "fats": "15g"
+                },
+                "vegan": {
+                    "meal": "Tofu Scramble with Spinach and Avocado",
+                    "calories": 330,
+                    "protein": "20g",
+                    "carbs": "10g",
+                    "fats": "25g"
+                },
+                "kosher": {
+                    "meal": "Kosher Scrambled Eggs, Spinach, and Avocado",
+                    "calories": 350,
+                    "protein": "25g",
+                    "carbs": "15g",
+                    "fats": "20g"
+                }
+            },
+            "morning_snack": {
+                "regular": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegetarian": {
+                    "meal": "Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                },
+                "vegan": {
+                    "meal": "Almond Yogurt and Mixed Berries",
+                    "calories": 140,
+                    "protein": "8g",
+                    "carbs": "20g",
+                    "fats": "5g"
+                },
+                "kosher": {
+                    "meal": "Kosher Greek Yogurt and Berries",
+                    "calories": 150,
+                    "protein": "12g",
+                    "carbs": "18g",
+                    "fats": "3g"
+                }
+            },
+            "lunch": {
+                "regular": {
+                    "meal": "Grilled Chicken, Quinoa, and Steamed Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                },
+                "vegetarian": {
+                    "meal": "Chickpea Salad with Quinoa and Steamed Broccoli",
+                    "calories": 420,
+                    "protein": "20g",
+                    "carbs": "55g",
+                    "fats": "10g"
+                },
+                "vegan": {
+                    "meal": "Lentil Salad with Quinoa and Broccoli",
+                    "calories": 400,
+                    "protein": "25g",
+                    "carbs": "50g",
+                    "fats": "8g"
+                },
+                "kosher": {
+                    "meal": "Kosher Grilled Chicken, Quinoa, and Broccoli",
+                    "calories": 450,
+                    "protein": "40g",
+                    "carbs": "45g",
+                    "fats": "10g"
+                }
+            },
+            "afternoon_snack": {
+                "regular": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegetarian": {
+                    "meal": "Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                },
+                "vegan": {
+                    "meal": "Almonds and Celery Sticks",
+                    "calories": 190,
+                    "protein": "6g",
+                    "carbs": "10g",
+                    "fats": "14g"
+                },
+                "kosher": {
+                    "meal": "Kosher Almonds and Carrot Sticks",
+                    "calories": 200,
+                    "protein": "6g",
+                    "carbs": "15g",
+                    "fats": "14g"
+                }
+            },
+            "dinner": {
+                "regular": {
+                    "meal": "Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                },
+                "vegetarian": {
+                    "meal": "Grilled Tempeh, Sweet Potatoes, and Asparagus",
+                    "calories": 480,
+                    "protein": "30g",
+                    "carbs": "45g",
+                    "fats": "20g"
+                },
+                "vegan": {
+                    "meal": "Baked Tofu, Sweet Potatoes, and Asparagus",
+                    "calories": 450,
+                    "protein": "28g",
+                    "carbs": "45g",
+                    "fats": "18g"
+                },
+                "kosher": {
+                    "meal": "Kosher Baked Salmon, Sweet Potatoes, and Asparagus",
+                    "calories": 500,
+                    "protein": "35g",
+                    "carbs": "40g",
+                    "fats": "25g"
+                }
+            }
+        },
+        "total_calories": 1650,
+        "total_protein": "118g",
+        "total_carbs": "133g",
+        "total_fats": "72g"
+    }
+]
