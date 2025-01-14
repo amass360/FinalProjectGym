@@ -76,7 +76,7 @@ const LoginRegister = ({ mode }) => {
                     type='email'
                     label='Enter your email..'
                     variant='outlined'
-                    onChange={(e)=>setEmail(e.target.value)}
+                    onChange={(e) => (event.key === 'Enter') ? LoginRegister() : setEmail(e.target.value)}
                 />
                 <TextField
                     sx={{ m: 1}}
@@ -84,7 +84,7 @@ const LoginRegister = ({ mode }) => {
                     type='password'
                     label='Enter your password..'
                     variant='outlined'
-                    onChange={(e)=>setPassword(e.target.value)}
+                    onChange={(e) => (event.key === 'Enter') ? LoginRegister() : setPassword(e.target.value)}
                 />
                 <div className='FoodPreference'>Food Preferences</div>
                 <div>
